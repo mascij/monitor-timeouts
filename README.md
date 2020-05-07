@@ -4,7 +4,7 @@ Simple bash script that uses ping timeouts as a way to determine network disconn
 
 To download this bash script and give it the correct permissions:
 ```
-curl -O https://raw.githubusercontent.com/superman-lopez/monitor-timeouts/master/monitor-timeouts.sh && chmod +x monitor-timeouts.sh
+curl -O https://raw.githubusercontent.com/mascij/monitor-timeouts/master/monitor-timeouts.sh && chmod +x monitor-timeouts.sh
 ```
 
 ## Usage
